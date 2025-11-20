@@ -1,1 +1,12 @@
-{"platform": "django"}
+{
+"platform": "django",
+"django": {   
+  "settings": "config.settings"
+}
+
+
+
+
+
+
+}
